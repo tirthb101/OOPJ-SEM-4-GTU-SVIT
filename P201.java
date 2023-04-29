@@ -1,7 +1,7 @@
 /*
 Write a program that prompts the user to enter three integers
 and display the integers in decreasing order.
- */
+*/
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class P201 {
         Scanner sc = new Scanner(System.in);
         int[] arr = new int[3];
         for (int i = 0; i < arr.length; i++) {
-            System.out.println("Enter integer no. " + i + 1 + ":");
+            System.out.println("Enter integer no. " + (i + 1) + ":");
             arr[i] = sc.nextInt();
         }
 
