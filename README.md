@@ -6,8 +6,8 @@ This repository contains all the practicals that were required to be completed a
 
 Before you start working on the practicals, you should have the following software installed on your system:
 
-- Java Development Kit (JDK) 8 or higher
-- Eclipse IDE for Java Developers
+- Java Development Kit (JDK) 
+- Eclipse IDE for Java Developers or Any other code editor or IDE
 - Git
 
 ## Getting Started
