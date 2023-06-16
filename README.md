@@ -62,7 +62,7 @@ To run the programs in this lab plan, ensure you have the following:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/lab-plan
+   git clone https://github.com/tirthb101/OOPJ-SEM-4-GTU-SVIT.git
    ```
 
 2. Open the cloned repository in your preferred IDE or text editor.
