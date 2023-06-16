@@ -2,48 +2,6 @@
 
 This repository contains the code for the lab plan assigned by Sardar Vallabhbhai Patel Institute of Technology, Vasad, Computer Engineering Department.
 
-## Lab Plan Details
-
-### PRACTICAL 1
-- Program: Displaying Welcome Message
-- Program: Solving Equations
-- Program: Converting Meters to Feet
-- Program: Calculating Body Mass Index (BMI)
-
-### PRACTICAL 2
-- Program: Sorting Integers in Decreasing Order
-- Program: Checking Vowels or Consonants
-- Program: Generating Vehicle Plate Numbers
-- Program: Finding Smallest Factors of an Integer
-
-### PRACTICAL 3
-- Program: Finding Greatest Common Divisor (GCD)
-- Program: Reversing Numbers
-- Program: Generating a Matrix with 0's and 1's
-- Program: Checking Odd Number of 1's in Rows and Columns
-
-### PRACTICAL 4
-- Program: Generating Random Integers
-- Program: Creating a Calculator
-- Program: Manipulating an ArrayList
-- Program: Converting Binary to Decimal
-- Program: Converting Decimal to Fraction
-
-### PRACTICAL 5
-- Program: Displaying a Tic-Tac-Toe Board
-- Program: Moving a Circle with Arrow Keys
-- Program: Changing Circle Color with Mouse Events
-- Program: Moving a Message with Buttons and Changing Color with Radio Buttons
-
-### PRACTICAL 6
-- Program: Creating and Appending Data to a File
-- Program: Finding the Smallest Integer in an Array (Recursive)
-- Program: Finding the Minimum Elements in a 2D Array (Generic)
-- Program: Cloning a Priority Queue
-
-### OEP
-- Program: Finding Non-duplicate Words in Descending Order from a Text File
-
 ## Getting Started
 
 To access the code for a specific practical, navigate to the corresponding folder in this repository. Each folder contains the code and resources required for that practical.
@@ -79,9 +37,55 @@ To run the programs in this lab plan, ensure you have the following:
 
 5. Follow the instructions and observe the output of each program.
 
+
+## Lab Plan Overview
+[OOP I Lab Plan.pdf](https://github.com/tirthb101/OOPJ-SEM-4-GTU-SVIT/files/11766251/OOP.I.Lab.Plan.pdf)
+
+### PRACTICAL 1
+- Program: Displaying Welcome Message
+- Program: Solving Equations
+- Program: Converting Meters to Feet
+- Program: Calculating Body Mass Index (BMI)
+
+### PRACTICAL 2
+- Program: Sorting Integers in Decreasing Order
+- Program: Checking Vowels or Consonants
+- Program: Generating Vehicle Plate Numbers
+- Program: Finding Smallest Factors of an Integer
+
+### PRACTICAL 3
+- Program: Finding Greatest Common Divisor (GCD)
+- Program: Reversing Numbers
+- Program: Generating a Matrix with 0's and 1's
+- Program: Checking Odd Number of 1's in Rows and Columns
+
+### PRACTICAL 4
+- Program: Generating Random Integers
+- Program: Creating a Calculator
+- Program: Manipulating an ArrayList
+- Program: Converting Binary to Decimal
+- Program: Converting Extracting Integer part from number
+
+
+### PRACTICAL 5
+- Program: Displaying a Tic-Tac-Toe Board
+- Program: Moving a Circle with Arrow Keys
+- Program: Changing Circle Color with Mouse Events
+- Program: Moving a Message with Buttons and Changing Color with Radio Buttons
+
+### PRACTICAL 6
+- Program: Creating and Appending Data to a File
+- Program: Finding the Smallest Integer in an Array (Recursive)
+- Program: Finding the Minimum Elements in a 2D Array (Generic)
+- Program: Cloning a Priority Queue
+
+### OEP
+- Program: Finding Non-duplicate Words in Descending Order from a Text File
+
+
 ## Additional
 
-1. Programs 2,3,4 of Practical-5 require setting up javafx correctly to work properly.
+- Programs 2,3,4 of Practical-5 require setting up javafx correctly to work properly.
 
 ## Contributions
 
